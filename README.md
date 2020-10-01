@@ -7,7 +7,6 @@ This is the website for Parcel v2. These docs are a **work in progress**. Please
 Start a local server using:
 
 ```bash
-yarn
 yarn serve
 ```
 
